@@ -8,7 +8,7 @@
 -                 KanRagnar.LearnsUnity();
 -                 }
 - 💞️ I’m looking to collaborate on ...
--          // Any team projects 
+-          // Any team projects C/C#/C++ preferably
 - 📫 How to reach me ...
 -         email=gsmkrm@hotmail.com
 -         ig=@kanavourass
