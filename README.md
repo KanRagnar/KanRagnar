@@ -2,7 +2,7 @@
 -         int Age=21;
 -         string CurrentlyStudying="Electrical and Computer Engineering";           //At Aristotle University of Thessaloniki
 - 👀 I’m interested in ...
--          bool Intresting=Anything.hasToDoWithProgramming;                     //I am a gamer so I do have an extra love and passion for videogame associated stuff
+-          bool Intresting=Anything.hasToDoWithProgramming();                     //I am a gamer so I do have an extra love and passion for videogame associated stuff
 - 🌱 I’m currently learning ...
 -          While(KanRagnar.isntInUniversity()){
 -                 KanRagnar.LearnsUnity();
