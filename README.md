@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning ...
 -          While(KanRagnar.isntInUniversity()){
 -                 KanRagnar.LearnsUnity();
+-                 KanRagnar.LearnsFrontEndDev();
 -                 }
 - 💞️ I’m looking to collaborate on ...
 -          // Any team projects, 
